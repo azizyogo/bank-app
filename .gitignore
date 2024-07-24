@@ -1,0 +1,6 @@
+# Ignore the config.json file
+config.json
+
+# Ignore other files and directories
+*.log
+.DS_Store

@@ -1,0 +1,16 @@
+{
+    "db": {
+        "user": "",
+        "password": "",
+        "name": "",
+        "host": "",
+        "port": ""
+    },
+    "jwt": {
+        "secret": ""
+    },
+    "rsa-key": {
+        "public": "",
+        "secret": ""
+    }
+}
